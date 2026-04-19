@@ -22,6 +22,7 @@ This project implements a real-time data pipeline using Databricks and Delta Lak
 
 Real-time data processing for analytics (IoT / logs simulation).
 I implemented data quality rules and optimized storage using partitioning in Unity Catalog.
+I designed aggregated analytical tables with partitioning and computed KPIs like conversion rate for business insights.
 
 ##  Status
 

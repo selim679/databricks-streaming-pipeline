@@ -26,7 +26,9 @@ I designed aggregated analytical tables with partitioning and computed KPIs like
 
 ##  Status
 
-Step 1: Project initialized
+ Step 1: Project initialized
  Step 2: Streaming ingestion (Bronze layer)
-Step 3: Data transformation (Silver layer completed)
-Step 4: Aggregation (Gold layer)
+ Step 3: Data transformation (Silver layer)
+ Step 4: Gold layer (business KPIs completed)
+ Step 5: Dashboard / Visualization
+

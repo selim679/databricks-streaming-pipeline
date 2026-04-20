@@ -41,11 +41,10 @@ Conversion rate
 
 
 Dashboard
-<img width="690" height="450" alt="newplot" src="https://github.com/user-attachments/assets/15d2193a-f80a-4d2c-b370-be68d38ea8f0" />
-<img width="690" height="450" alt="newplot" src="https://github.com/user-attachments/assets/205b659e-4c9d-406a-b190-9bfc781a4018" />
-<img width="690" height="400" alt="newplot (1)" src="https://github.com/user-attachments/assets/826880e3-3fbd-4c04-a329-8fafb9b73274" />
-<img width="690" height="450" alt="newplot (2)" src="https://github.com/user-attachments/assets/73c16f8e-f199-4ec9-8379-5625bef0a29a" />
-<img width="690" height="400" alt="newplot (1)" src="https://github.com/user-attachments/assets/8e95d75b-4fbd-4a16-8729-f66b6c0ecb2d" />
+<img width="690" height="400" alt="Daily Metrics Dashboard" src="https://github.com/user-attachments/assets/0482d418-426e-45e7-a96e-75cfe2d1bf74" />
+<img width="690" height="450" alt="Event Distribution by Type" src="https://github.com/user-attachments/assets/67fba284-e6b9-4e55-9ef1-bd1ada158e1f" />
+<img width="690" height="450" alt="Revenue Evolution Over Time" src="https://github.com/user-attachments/assets/babd7661-0895-445e-bac2-b06374f25762" />
+
 
 
 

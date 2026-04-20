@@ -2,21 +2,28 @@
 
 ## Project Overview
 
-This project implements a real-time data pipeline using Databricks and Delta Lake.
+This project implements a real-time data pipeline using Databricks, Spark Structured Streaming, and Delta Lake following the Medallion Architecture (Bronze, Silver, Gold).
 
 ##  Architecture
 
-* Data ingestion (streaming)
-* Bronze / Silver / Gold layers
-* Data transformation with Spark
-* Analytics
+Streaming ingestion (simulated real-time data)
+Bronze layer (raw data)
+Silver layer (cleaned & validated data)
+Gold layer (business KPIs)
 
-## 🛠️ Tech Stack
+## Key Features
+Real-time data processing
+Data quality checks
+Deduplication
+Partitioned Delta tables
+Business metrics (revenue, active users, conversion rate)
 
-* Databricks
-* Apache Spark
-* Delta Lake
-* Python
+##  Tech Stack
+
+Databricks
+Apache Spark
+Delta Lake
+Python
 
 ##  Use Case
 
@@ -24,11 +31,23 @@ Real-time data processing for analytics (IoT / logs simulation).
 I implemented data quality rules and optimized storage using partitioning in Unity Catalog.
 I designed aggregated analytical tables with partitioning and computed KPIs like conversion rate for business insights.
 
-##  Status
 
- Step 1: Project initialized
- Step 2: Streaming ingestion (Bronze layer)
- Step 3: Data transformation (Silver layer)
- Step 4: Gold layer (business KPIs completed)
- Step 5: Dashboard / Visualization
+
+## Sample KPIs
+Total revenue per day
+Active users
+Event distribution
+Conversion rate
+
+
+Dashboard
+
+
+## What I Learned
+Designing scalable data pipelines
+Handling streaming data
+Implementing data quality checks
+Building analytical layers for business
+##  Status
+Completed end-to-end pipeline
 
